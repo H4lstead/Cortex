@@ -12,7 +12,7 @@ A simple text encryption tool
 <img src="./src/views/img/text.png" widht="800">
 <br><br>
 - Then select the type of encryption you want
-<img src=".src/views/img/type.png" widht="800">
+<img src="./src/views/img/type.png" widht="800">
 <br><br>
 - And finally, if you selected the cesar cipher, type a key to be used or leave with nothing to use the pattern that is set to 20
 <img src="./src/views/img/key.png" widht="800">
