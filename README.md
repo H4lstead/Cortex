@@ -3,11 +3,11 @@ A simple text encryption tool
 
 <img src="./src/views/img/preview.gif" widht="100" height="400">
 
-##Dependencies
+## Dependencies
 - [chalk](https://www.npmjs.com/package/chalk/v/2.4.2)
 - [inquirer](https://www.npmjs.com/package/inquirer)
 
-##How to use?
+## How to use?
 - First, type the text you want to encrypt
 <img src="./src/views/img/text.png" widht="100" height="400">
 <br><br>
